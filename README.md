@@ -62,9 +62,9 @@ This project utilizes the following external library: fmt
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://en.wikipedia.org/wiki/MIT_License) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://en.wikipedia.org/wiki/MIT_License) for details.
 
 ## The fmt library
 I want to give a huge shout out for the fmt library. It is a great library that makes formatting strings and io operations in C++ a breeze. I highly recommend it for any C++ project.
 
-[useage]](https://fmt.dev/latest/usage.html)
+[useage](https://fmt.dev/latest/usage.html)
